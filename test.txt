@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "test"
+echo "Git"
+
+echo "end file"
